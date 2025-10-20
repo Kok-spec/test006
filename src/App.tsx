@@ -1,7 +1,7 @@
-import MyComponent from './components/index';
+import KokspecDesktop from './components/index';
 
 function App() {
-  return <MyComponent />;
+  return <KokspecDesktop />;
 }
 
 export default App;
